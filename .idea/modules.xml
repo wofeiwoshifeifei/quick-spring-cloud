@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/quick-config-center/quick-config-center.iml" filepath="$PROJECT_DIR$/quick-config-center/quick-config-center.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quick-register-center/quick-register-center.iml" filepath="$PROJECT_DIR$/quick-register-center/quick-register-center.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quick-service-eureka/quick-service-eureka.iml" filepath="$PROJECT_DIR$/quick-service-eureka/quick-service-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quick-service-feign/quick-service-feign.iml" filepath="$PROJECT_DIR$/quick-service-feign/quick-service-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quick-service-ribbon/quick-service-ribbon.iml" filepath="$PROJECT_DIR$/quick-service-ribbon/quick-service-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quick-spring-cloud.iml" filepath="$PROJECT_DIR$/quick-spring-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quick-zipkin/quick-zipkin.iml" filepath="$PROJECT_DIR$/quick-zipkin/quick-zipkin.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="quick-config-center" />
+        <module name="quick-register-center" />
+        <module name="quick-service-eureka" />
+        <module name="quick-service-feign" />
+        <module name="quick-service-ribbon" />
+        <module name="quick-spring-cloud" />
+        <module name="quick-zipkin" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="quick-config-center" target="1.8" />
+      <module name="quick-register-center" target="1.8" />
+      <module name="quick-service-eureka" target="1.8" />
+      <module name="quick-service-feign" target="1.8" />
+      <module name="quick-service-ribbon" target="1.8" />
+      <module name="quick-service-zuul" target="1.8" />
+      <module name="quick-spring-cloud" target="1.8" />
+      <module name="quick-zipkin" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="quick-config-center" options="-parameters" />
+      <module name="quick-register-center" options="-parameters" />
+      <module name="quick-service-eureka" options="-parameters" />
+      <module name="quick-service-feign" options="-parameters" />
+      <module name="quick-service-ribbon" options="-parameters" />
+      <module name="quick-service-zuul" options="-parameters" />
+      <module name="quick-spring-cloud" options="-parameters" />
+      <module name="quick-zipkin" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/quick-config-center" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/quick-register-center" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/quick-service-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/quick-service-feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/quick-service-ribbon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/quick-service-zuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/quick-zipkin" charset="UTF-8" />
+  </component>
+</project>
