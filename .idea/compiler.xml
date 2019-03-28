@@ -6,6 +6,18 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="apollo-adminservice" />
+        <module name="apollo-assembly" />
+        <module name="apollo-biz" />
+        <module name="apollo-buildtools" />
+        <module name="apollo-client" />
+        <module name="apollo-common" />
+        <module name="apollo-configservice" />
+        <module name="apollo-core" />
+        <module name="apollo-demo" />
+        <module name="apollo-mockserver" />
+        <module name="apollo-openapi" />
+        <module name="apollo-portal" />
         <module name="quick-config-center" />
         <module name="quick-register-center" />
         <module name="quick-service-eureka" />
@@ -16,6 +28,19 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="apollo" target="1.8" />
+      <module name="apollo-adminservice" target="1.8" />
+      <module name="apollo-assembly" target="1.8" />
+      <module name="apollo-biz" target="1.8" />
+      <module name="apollo-buildtools" target="1.8" />
+      <module name="apollo-client" target="1.7" />
+      <module name="apollo-common" target="1.8" />
+      <module name="apollo-configservice" target="1.8" />
+      <module name="apollo-core" target="1.7" />
+      <module name="apollo-demo" target="1.7" />
+      <module name="apollo-mockserver" target="1.7" />
+      <module name="apollo-openapi" target="1.7" />
+      <module name="apollo-portal" target="1.8" />
       <module name="quick-config-center" target="1.8" />
       <module name="quick-register-center" target="1.8" />
       <module name="quick-service-eureka" target="1.8" />

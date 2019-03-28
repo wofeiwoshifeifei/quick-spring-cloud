@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration>
+        <fileset id="fileset" name="Spring Application Context" removed="false">
+          <file>file://$MODULE_DIR$/apollo/apollo-client/src/test/resources/spring/XmlConfigAnnotationTest6.xml</file>
+          <file>file://$MODULE_DIR$/apollo/apollo-client/src/test/resources/spring/XmlConfigAnnotationTest2.xml</file>
+          <file>file://$MODULE_DIR$/apollo/apollo-client/src/test/resources/spring/XmlConfigPlaceholderTest4.xml</file>
+          <file>file://$MODULE_DIR$/apollo/apollo-client/src/test/resources/spring/XmlConfigPlaceholderTest5.xml</file>
+          <file>file://$MODULE_DIR$/apollo/apollo-client/src/test/resources/spring/XmlConfigPlaceholderTest11.xml</file>
+          <file>file://$MODULE_DIR$/apollo/apollo-client/src/test/resources/spring/XmlConfigAnnotationTest4.xml</file>
+          <file>file://$MODULE_DIR$/apollo/apollo-client/src/test/resources/spring/XmlConfigAnnotationTest1.xml</file>
+          <file>file://$MODULE_DIR$/apollo/apollo-client/src/test/resources/spring/XmlConfigPlaceholderTest1.xml</file>
+          <file>file://$MODULE_DIR$/apollo/apollo-client/src/test/resources/spring/XmlConfigPlaceholderTest9.xml</file>
+          <file>file://$MODULE_DIR$/apollo/apollo-client/src/test/resources/spring/XmlConfigPlaceholderTest2.xml</file>
+          <file>file://$MODULE_DIR$/apollo/apollo-client/src/test/resources/spring/XmlConfigPlaceholderTest3.xml</file>
+          <file>file://$MODULE_DIR$/apollo/apollo-client/src/test/resources/spring/XmlConfigPlaceholderTest8.xml</file>
+          <file>file://$MODULE_DIR$/apollo/apollo-client/src/test/resources/spring/XmlConfigPlaceholderTest10.xml</file>
+          <file>file://$MODULE_DIR$/apollo/apollo-demo/src/main/resources/spring.xml</file>
+          <file>file://$MODULE_DIR$/apollo/apollo-client/src/test/resources/spring/XmlConfigPlaceholderTest6.xml</file>
+          <file>file://$MODULE_DIR$/apollo/apollo-client/src/test/resources/spring/XmlConfigPlaceholderTest7.xml</file>
+          <file>file://$MODULE_DIR$/apollo/apollo-client/src/test/resources/spring/XmlConfigAnnotationTest3.xml</file>
+          <file>file://$MODULE_DIR$/apollo/apollo-client/src/test/resources/spring/XmlConfigAnnotationTest5.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
     <output url="file://$MODULE_DIR$/target/classes" />
     <output-test url="file://$MODULE_DIR$/target/test-classes" />
