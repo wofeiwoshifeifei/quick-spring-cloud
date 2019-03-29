@@ -45,4 +45,5 @@ mv filebear-my-config.yml filebeat-$tool_version-linux-x86_64/
 sudo filebeat-$tool_version-linux-x86_64/filebeat -e -c filebear-my-config.yml
 
 #run the logstash
-sh logstash-$tool_version/bin/logstash -f logstash-6.7.0/config/logstash-sample.conf
+sh logstash-$tool_version/bin/logstash -f logstash-$tool_version/config/logstash-filebeat.conf
+
