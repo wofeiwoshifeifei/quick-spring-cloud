@@ -19,6 +19,7 @@
         <module name="apollo-openapi" />
         <module name="apollo-portal" />
         <module name="quick-config-center" />
+        <module name="quick-log-center" />
         <module name="quick-register-center" />
         <module name="quick-service-eureka" />
         <module name="quick-service-feign" />
@@ -42,6 +43,7 @@
       <module name="apollo-openapi" target="1.7" />
       <module name="apollo-portal" target="1.8" />
       <module name="quick-config-center" target="1.8" />
+      <module name="quick-log-center" target="1.8" />
       <module name="quick-register-center" target="1.8" />
       <module name="quick-service-eureka" target="1.8" />
       <module name="quick-service-feign" target="1.8" />
@@ -54,6 +56,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="quick-config-center" options="-parameters" />
+      <module name="quick-log-center" options="-parameters" />
       <module name="quick-register-center" options="-parameters" />
       <module name="quick-service-eureka" options="-parameters" />
       <module name="quick-service-feign" options="-parameters" />

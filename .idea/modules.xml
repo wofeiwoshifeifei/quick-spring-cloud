@@ -16,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/apollo/apollo-openapi/apollo-openapi.iml" filepath="$PROJECT_DIR$/apollo/apollo-openapi/apollo-openapi.iml" />
       <module fileurl="file://$PROJECT_DIR$/apollo/apollo-portal/apollo-portal.iml" filepath="$PROJECT_DIR$/apollo/apollo-portal/apollo-portal.iml" />
       <module fileurl="file://$PROJECT_DIR$/quick-config-center/quick-config-center.iml" filepath="$PROJECT_DIR$/quick-config-center/quick-config-center.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quick-log-center/quick-log-center.iml" filepath="$PROJECT_DIR$/quick-log-center/quick-log-center.iml" />
       <module fileurl="file://$PROJECT_DIR$/quick-register-center/quick-register-center.iml" filepath="$PROJECT_DIR$/quick-register-center/quick-register-center.iml" />
       <module fileurl="file://$PROJECT_DIR$/quick-service-eureka/quick-service-eureka.iml" filepath="$PROJECT_DIR$/quick-service-eureka/quick-service-eureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/quick-service-feign/quick-service-feign.iml" filepath="$PROJECT_DIR$/quick-service-feign/quick-service-feign.iml" />

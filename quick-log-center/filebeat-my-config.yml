@@ -1,0 +1,14 @@
+filebeat.prospectors:
+- type: log
+  enabled: true
+  paths:
+    - /usr/local/apache-tomcat-8.5.38/logs_fh/*
+    - /usr/local/apache-tomcat-quartz/logs_fh/*
+filebeat.config.modules:
+  path: ${path.config}/modules.d/*.yml
+  reload.enabled: false
+setup.template.settings:
+  index.number_of_shards: 3  
+setup.kibana: 
+output.logstash:  
+  hosts: ["localhost:5544"]

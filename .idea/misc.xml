@@ -12,6 +12,7 @@
         <option value="$PROJECT_DIR$/quick-zipkin/pom.xml" />
         <option value="$PROJECT_DIR$/quick-config-center/pom.xml" />
         <option value="$PROJECT_DIR$/apollo/pom.xml" />
+        <option value="$PROJECT_DIR$/quick-log-center/pom.xml" />
       </list>
     </option>
   </component>
